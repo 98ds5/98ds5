@@ -18,7 +18,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**private-cinema**](https://github.com/98ds5/private-cinema) | Local media library manager — scan, parse, poster, resume playback, stats | PySide6, SQLAlchemy, ffmpeg |
+| [**private-cinema**](https://github.com/98ds5/private-cinema) | Local media library — scan files, fetch posters, resume playback | PySide6, SQLAlchemy, ffmpeg |
 | [**liwangtong**](https://github.com/98ds5/liwangtong) | Campus network auto‑login — tray daemon, auto-reconnect, secure storage | Python, Tkinter, pystray |
 
 ### 📊 GitHub Stats
